@@ -1,0 +1,9 @@
+# node_modules and dist
+node_modules/
+package-lock.json
+
+# log files
+npm-debug.log*
+
+# Editor directories and files
+.vscode
