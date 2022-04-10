@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Zhangyao719/force-strict-loader/issues"
   },
-  "homepage": "https://github.com/Zhangyao719/force-strict-loader#readme"
+  "homepage": "https://github.com/Zhangyao719/force-strict-loader#readme",
+  "devDependencies": {
+    "loader-utils": "^2.0.2"
+  }
 }
